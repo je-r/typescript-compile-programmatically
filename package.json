@@ -1,0 +1,9 @@
+{
+  "name": "TS",
+  "version": "1.0.0",
+  "dependencies": {
+      "typescript": "latest",
+      "globalthis": "latest"
+  }
+
+}
