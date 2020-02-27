@@ -17,3 +17,5 @@ console.log(JSON.stringify(result));
 console.log("———————-")
 
 eval(result["outputText"]);
+
+console.log("TypeScript version: "+ts.version);
